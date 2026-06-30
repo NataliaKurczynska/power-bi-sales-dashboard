@@ -9,6 +9,8 @@ The project is focused on preparing raw data and transforming them into interact
 
 The dataset used in this project comes from Kaggle.
 
+[Sales Dataset] (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+
 ## Tools & Technologies
 
 - Microsoft Power BI 
