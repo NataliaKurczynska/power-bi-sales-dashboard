@@ -29,3 +29,9 @@ The dataset used in this project comes from Kaggle.
 - Regional analysis using maps
 - Customer segmentation
 - Filters and drill-down functionality
+
+## Dashboard Preview
+
+![Dashboard Overview](dashboard-overview.png)
+
+![Dashboard filtered Overview](dashboard-overview-filtered.png)
